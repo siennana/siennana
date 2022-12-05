@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sienna. I'm web and application developer
 
-##### 🔭 I’m currently working on SiennaOS, my portfolio website which acts as a mini desktop operating system. https://siennana.github.io
+##### 🔭 I’m currently working on SiennaOS, my portfolio website which acts as a mini desktop operating system. https://siennacodes.com
 
 ##### 📫 How to reach me: Email me at sienna.brown@me.com
 
