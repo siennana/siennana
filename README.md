@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Sienna. I'm web and application developer
+### Hi there 👋, I'm Sienna. I'm a web and application developer
 
-##### 🔭 I’m currently working on SiennaOS, my portfolio website which acts as a mini desktop operating system. https://siennacodes.com
+##### 🔭 I’m currently working on siennacodes.com, my portfolio website which acts as a mini desktop operating system. https://siennacodes.com
 
-##### 📫 How to reach me: Email me at sienna.brown@me.com
+##### 📫 How to reach me: Email me at sienna.kaylenb@gmail.com
 
 <!--
 **siennana/siennana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
