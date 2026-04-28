@@ -2,7 +2,7 @@
 
 ##### 🔭 I’m currently working on:
 * siennacodes.com - my portfolio website which acts as a mini desktop operating system. https://siennacodes.com
-* billiards-ai - a computer vision and AI agent project that processes live or recorded pool games and tracks analytics
+* billiards-ai - a computer vision project that processes recorded pool games and tracks analytics
 
 ##### 📫 How to reach me: Email me at sienna.kaylenb@gmail.com
 
